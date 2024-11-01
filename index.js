@@ -25,4 +25,4 @@ const server = http.createServer((req, res) => {
 // el servidor empiece a recibir peticiones 
 
 server.listen(3000, "0.0.0.0", () => {
-  console.log("👩‍🍳 Servidor escuchando en http://localhost:3000")});  
+  console.log("👩‍🍳 Servidor escuchando en http://localhost:3000")}); 
